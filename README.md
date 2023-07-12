@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/fist-challenge-html5-and-css3-focus-on-grid-and-flexbox-yJDgc5rywa]
-- Live Site URL: [https://wabemusic.github.io/qr-codecomponent/]
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/fist-challenge-html5-and-css3-focus-on-grid-and-flexbox-yJDgc5rywa)
+- Live Site URL: [Github pages](https://wabemusic.github.io/qr-codecomponent/)
 ## My process
 
 ### Built with
