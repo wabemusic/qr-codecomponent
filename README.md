@@ -7,13 +7,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot) 
 - [My process](#my-process)
-    The challenge was for me to test my knowledge in HTML5 and CSS3, in which I used Flexbox.
   - [Built with](#built-with)
-    HMTL5 and CSS3 with Flexbox
   - [What I learned](#what-i-learned)
-    I didn't have much knowledge about css, which made me research and read a lot about it, with the help of people in the community, I managed to learn a lot about css and flexbox, how to put things in the right places and the right way.
-
-
+   
 ## Overview
 
 ### Screenshot
